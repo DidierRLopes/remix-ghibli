@@ -1,0 +1,28 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "name": "Marius",
+      "message": "yoooo soo good!!",
+      "filmId": "58611129-2dbc-4a81-a72f-77ddfc1b1b49"
+    },
+    {
+      "id": 2,
+      "name": "Marius",
+      "message": "some comment",
+      "filmId": "58611129-2dbc-4a81-a72f-77ddfc1b1b49"
+    },
+    {
+      "name": "test",
+      "message": "test",
+      "filmId": "58611129-2dbc-4a81-a72f-77ddfc1b1b49",
+      "id": 3
+    },
+    {
+      "name": "test2",
+      "message": "test2",
+      "filmId": "58611129-2dbc-4a81-a72f-77ddfc1b1b49",
+      "id": 4
+    }
+  ]
+}
